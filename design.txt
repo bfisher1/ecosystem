@@ -1,0 +1,8 @@
+list of animals
+list of plants
+
+different biomes with different temperature, rain, humidity, etc
+
+coordinate's biome is driven by perlin noise function
+
+then plants / animals are driven off of this
